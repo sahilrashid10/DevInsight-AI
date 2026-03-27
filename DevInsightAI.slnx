@@ -1,0 +1,6 @@
+<Solution>
+  <Project Path="DevInsightAI.API/DevInsightAI.API.csproj" />
+  <Project Path="DevInsightAI.Application/DevInsightAI.Application.csproj" />
+  <Project Path="DevInsightAI.Domain/DevInsightAI.Domain.csproj" />
+  <Project Path="DevInsightAI.Infrastructure/DevInsightAI.Infrastructure.csproj" />
+</Solution>

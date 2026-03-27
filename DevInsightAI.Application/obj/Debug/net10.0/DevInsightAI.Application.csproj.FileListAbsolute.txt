@@ -1,0 +1,11 @@
+C:\Users\SahilRashidMAQSoftwa\Downloads\DevInsights-AI\DevInsightAI.Application\bin\Debug\net10.0\DevInsightAI.Application.deps.json
+C:\Users\SahilRashidMAQSoftwa\Downloads\DevInsights-AI\DevInsightAI.Application\bin\Debug\net10.0\DevInsightAI.Application.dll
+C:\Users\SahilRashidMAQSoftwa\Downloads\DevInsights-AI\DevInsightAI.Application\bin\Debug\net10.0\DevInsightAI.Application.pdb
+C:\Users\SahilRashidMAQSoftwa\Downloads\DevInsights-AI\DevInsightAI.Application\obj\Debug\net10.0\DevInsightAI.Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\SahilRashidMAQSoftwa\Downloads\DevInsights-AI\DevInsightAI.Application\obj\Debug\net10.0\DevInsightAI.Application.AssemblyInfoInputs.cache
+C:\Users\SahilRashidMAQSoftwa\Downloads\DevInsights-AI\DevInsightAI.Application\obj\Debug\net10.0\DevInsightAI.Application.AssemblyInfo.cs
+C:\Users\SahilRashidMAQSoftwa\Downloads\DevInsights-AI\DevInsightAI.Application\obj\Debug\net10.0\DevInsightAI.Application.csproj.CoreCompileInputs.cache
+C:\Users\SahilRashidMAQSoftwa\Downloads\DevInsights-AI\DevInsightAI.Application\obj\Debug\net10.0\DevInsightAI.Application.dll
+C:\Users\SahilRashidMAQSoftwa\Downloads\DevInsights-AI\DevInsightAI.Application\obj\Debug\net10.0\refint\DevInsightAI.Application.dll
+C:\Users\SahilRashidMAQSoftwa\Downloads\DevInsights-AI\DevInsightAI.Application\obj\Debug\net10.0\DevInsightAI.Application.pdb
+C:\Users\SahilRashidMAQSoftwa\Downloads\DevInsights-AI\DevInsightAI.Application\obj\Debug\net10.0\ref\DevInsightAI.Application.dll
