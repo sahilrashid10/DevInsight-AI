@@ -22,7 +22,7 @@ public class Rule
 
     public int CreatedBy { get; set; }
 
-    public DateTime CreatedAt { get; init; } = DateTime.UtcNow;
+    public DateTime CreatedAt { get; set; } = DateTime.UtcNow;
 
     // Navigation
     public ICollection<Violation.Violation> Violations { get; set; }
